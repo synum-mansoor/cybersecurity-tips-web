@@ -1,0 +1,36 @@
+ * {
+  font-family: "Gill Sans", "Gill Sans MT", "Lucida Sans", sans-serif;
+}
+
+body {
+  margin: 0;
+  background-color: #FFCC00;
+  color: #1E1E1E;
+  font-size: 18pt;
+  line-height: 1.5;
+}
+
+h1 {
+  font-size: 70pt;
+  line-height: 1.05;
+  background-color: #1E1E1E;
+  color: #FFFFFF;
+  margin: 0;
+  padding: 3rem 10%;
+}
+
+h2 {
+  font-size: 38pt;
+  line-height: 1.15;
+  color: #1E1E1E;
+  margin: 0;
+  padding: 2.5rem 10% 1rem 10%;
+}
+
+p {
+  font-size: 18pt;
+  color: #1E1E1E;
+  background-color: #EBEBEB;
+  margin: 0;
+  padding: 1.5rem 10%;
+}
